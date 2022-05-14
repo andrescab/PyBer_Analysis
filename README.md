@@ -3,8 +3,10 @@
 The purpose of the analysis is to show up how the data differs by city type and how those differences can be used by decision makers at PyBer. For this reason, it will create a summary DataFrame of the ride-sharing data by city type using python and pandas. On the other hand, the other graph to be created is a multiple-line graph that shows up the total weekly fares for each city type.
 ## Results
 ![img_names5a](t1.png) 
+
 As we can see in the first dataframe, the urban cities has the highest numbers in total rides, total drivers, total fares, follow up by suburban cities and the rural cities. But the rural has the highest average fare per ride and average fare per driver. 
 ![img_names5b](t2.png) 
+
 In the second chart that shows the total fare by city type in different months, we can see the urban cities has the highest total fares in all the months, close to march the urban cities reached up their highest number. The suburban cities were very close to 1000 dollars in total fares in all months. Finally, the rural cities had the lowest level of total fares in all months.  
 ## Summary
 In the next lines, it will be suggested some recommendations for addressing any disparities among the city types.
